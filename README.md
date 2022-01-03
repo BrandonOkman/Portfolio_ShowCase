@@ -1,4 +1,4 @@
-# Portfolio_ShowCase# Refactoring W1
+# Portfolio_ShowCase
 
 ## Table of Contents
 * Purpose
